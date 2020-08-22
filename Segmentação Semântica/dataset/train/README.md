@@ -1,6 +1,6 @@
-Arquivos do conjunto de treinamento.
+<b>Arquivos do conjunto de treinamento.</b>
 
-Composição:
+<b>Composição:</b>
 * train-hsv.zip: arquivos de entrada no espaço de cores HSV (mapa de profundidade);
 * train-labels: mapas de rótulos;
 * train-labels-int: mapas de rótulos com classes (inteiros de 0 a 4) ao invés de cores;
